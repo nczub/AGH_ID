@@ -1,0 +1,101 @@
+id,area,state,bedrooms,bathrooms,stories,mainroad,guestroom,basement,renovation_expenses_5_Yrs,hotwaterheating,airconditioning,parking,furnishingstatus,monthly_charges,price
+house_1,7420.0,Michigan,4,2.0,3,yes,no,no,1440.686,0,1,2,furnished,98.686,13300000
+house_2,8960.0,Montana,4,4.0,4,yes,no,no,2511.168,0,1,3,furnished,119.168,12250000
+house_3,9960.0,New York,3,2.0,2,yes,no,yes,1728.468,0,0,2,semi-furnished,132.468,12250000
+house_4,7500.0,Texas,4,2.0,2,yes,no,yes,1449.75,0,1,3,furnished,99.75,12215000
+house_5,7420.0,Texas,4,1.0,2,yes,yes,yes,1069.686,0,1,2,furnished,98.686,11410000
+house_6,7500.0,Texas,3,3.0,1,yes,no,yes,1824.75,0,1,2,semi-furnished,99.75,10850000
+house_7,8580.0,Montana,4,3.0,4,yes,no,no,2001.114,0,1,2,semi-furnished,114.114,10150000
+house_8,16200.0,Montana,5,3.0,2,yes,no,no,3245.46,0,0,0,unfurnished,215.46,10150000
+house_9,8100.0,Montana,4,1.0,2,yes,yes,yes,53694.5,0,1,2,furnished,52689.5,9870000
+house_10,5750.0,New York,3,2.0,4,yes,yes,no,1251.475,0,1,1,unfurnished,76.475,9800000
+house_11,13200.0,New York,3,,2,yes,no,yes,775.56,0,1,2,furnished,175.56,9800000
+house_12,6000.0,New York,4,3.0,2,yes,yes,yes,1579.8,1,0,2,semi-furnished,79.8,9681000
+house_13,6550.0,New York,4,2.0,2,yes,no,no,1342.115,0,1,1,semi-furnished,87.115,9310000
+house_14,3500.0,Michigan,4,2.0,2,yes,no,no,996.55,1,0,2,furnished,46.55,9240000
+house_15,7800.0,Texas,3,2.0,2,yes,no,no,1483.74,0,0,0,semi-furnished,103.74,9240000
+house_16,6000.0,Montana,4,1.0,2,yes,no,yes,979.8,0,0,2,semi-furnished,79.8,9100000
+house_17,,Montana,4,2.0,2,yes,yes,yes,16065.8,0,1,1,unfurnished,15465.8,9100000
+house_18,8500.0,Montana,3,2.0,4,yes,no,no,1563.05,0,1,2,furnished,113.05,8960000
+house_19,4600.0,New York,3,2.0,2,yes,yes,no,1121.18,0,1,2,furnished,61.18,8890000
+house_20,6420.0,Michigan,3,2.0,2,yes,no,no,1327.386,0,1,1,semi-furnished,85.386,8855000
+house_21,4320.0,Michigan,3,1.0,2,yes,no,yes,873.456,1,0,2,semi-furnished,57.456,8750000
+house_22,7155.0,Michigan,3,2.0,1,yes,yes,yes,1410.6615,0,1,2,unfurnished,95.1615,8680000
+house_23,8050.0,Michigan,3,1.0,1,yes,yes,yes,1109.565,0,1,1,furnished,107.065,8645000
+house_24,4560.0,Michigan,3,2.0,2,yes,yes,yes,1116.648,0,1,1,furnished,60.648,8645000
+house_25,8800.0,Michigan,3,,2,yes,no,no,717.04,0,1,2,furnished,117.04,8575000
+house_26,6540.0,Michigan,4,2.0,2,yes,yes,yes,1340.982,0,1,2,furnished,86.982,8540000
+house_27,6000.0,Michigan,3,2.0,4,yes,yes,yes,1279.8,0,1,0,semi-furnished,79.8,8463000
+house_28,8875.0,Montana,3,1.0,1,yes,no,no,1161.7875,0,0,1,semi-furnished,118.0375,8400000
+house_29,7950.0,Montana,5,2.0,2,yes,no,yes,1500.735,1,0,2,unfurnished,105.735,8400000
+house_30,5500.0,Montana,4,2.0,2,yes,no,yes,1223.15,0,1,1,semi-furnished,73.15,8400000
+house_31,7475.0,Montana,3,2.0,4,yes,no,no,1446.9175,0,1,2,unfurnished,99.4175,8400000
+house_32,7000.0,Michigan,3,1.0,4,yes,no,no,1043.1,0,1,2,semi-furnished,93.1,8400000
+house_33,4880.0,Michigan,4,2.0,2,yes,no,no,1152.904,0,1,1,furnished,64.904,8295000
+house_34,5960.0,Michigan,3,3.0,2,yes,yes,yes,1573.268,0,0,1,unfurnished,79.268,8190000
+house_35,6840.0,New York,5,1.0,2,yes,yes,yes,1032.972,0,1,1,furnished,90.972,8120000
+house_36,7000.0,Montana,3,2.0,4,yes,no,no,1393.1,0,1,2,furnished,93.1,8080940
+house_37,7482.0,Michigan,3,2.0,3,yes,no,no,1447.7106,1,0,1,furnished,99.5106,8043000
+house_38,9000.0,New York,4,2.0,4,yes,no,no,1619.7,0,1,2,furnished,119.7,7980000
+house_39,6000.0,Michigan,3,1.0,4,yes,yes,no,979.8,0,1,2,unfurnished,79.8,7962500
+house_40,6000.0,Michigan,4,2.0,4,yes,no,no,1279.8,0,1,1,semi-furnished,79.8,7910000
+house_41,6550.0,Texas,3,1.0,2,yes,no,yes,1014.615,0,1,0,furnished,87.115,7875000
+house_42,6360.0,New York,3,2.0,4,yes,no,no,1320.588,0,1,0,furnished,84.588,7840000
+house_43,6480.0,New York,3,2.0,4,yes,no,no,1334.184,0,1,2,unfurnished,86.184,7700000
+house_44,6000.0,New York,4,2.0,4,yes,no,no,1279.8,0,0,2,semi-furnished,79.8,7700000
+house_45,6000.0,New York,4,2.0,4,yes,no,no,1279.8,0,1,1,furnished,79.8,7560000
+house_46,6000.0,New York,3,2.0,3,yes,no,no,1279.8,0,1,0,semi-furnished,79.8,7560000
+house_47,6000.0,New York,3,2.0,4,yes,no,no,1279.8,0,1,1,furnished,79.8,7525000
+house_48,6600.0,New York,3,1.0,4,yes,no,no,1017.78,0,1,3,furnished,87.78,7490000
+house_49,4300.0,Texas,3,2.0,2,yes,no,yes,1087.19,0,0,1,unfurnished,57.19,7455000
+house_50,7440.0,Texas,3,2.0,1,yes,yes,yes,1442.952,0,1,0,semi-furnished,98.952,7420000
+house_51,,Texas,3,2.0,4,yes,no,no,46494.56,0,0,1,unfurnished,45894.56,7420000
+house_52,6325.0,Texas,3,1.0,4,yes,no,no,1000.3725,0,1,1,unfurnished,84.1225,7420000
+house_53,6000.0,Texas,4,2.0,4,yes,yes,no,1279.8,0,1,1,furnished,79.8,7350000
+house_54,5150.0,Texas,3,2.0,4,yes,no,no,1183.495,0,1,2,semi-furnished,68.495,7350000
+house_55,6000.0,Texas,3,2.0,2,yes,yes,no,1279.8,0,1,1,semi-furnished,79.8,7350000
+house_56,6000.0,Texas,3,1.0,2,yes,no,no,979.8,0,1,1,unfurnished,79.8,7350000
+house_57,11440.0,Texas,4,1.0,2,yes,no,yes,1324.152,0,0,1,semi-furnished,152.152,7343000
+house_58,9000.0,Texas,4,2.0,4,yes,yes,no,1619.7,0,1,1,furnished,119.7,7245000
+house_59,7680.0,Texas,4,2.0,4,yes,yes,no,1470.144,0,1,1,semi-furnished,102.144,7210000
+house_60,6000.0,New York,3,2.0,4,yes,yes,no,1279.8,0,1,1,furnished,79.8,7210000
+house_61,6000.0,Michigan,3,2.0,2,yes,yes,no,1279.8,0,0,1,semi-furnished,79.8,7140000
+house_62,8880.0,Montana,2,1.0,1,yes,no,no,1162.104,0,1,1,semi-furnished,118.104,7070000
+house_63,6240.0,New York,4,2.0,2,yes,no,no,1306.992,0,1,1,furnished,82.992,7070000
+house_64,6360.0,Montana,4,2.0,3,yes,no,no,1320.588,0,1,2,furnished,84.588,7035000
+house_65,11175.0,Texas,3,1.0,1,yes,no,yes,1307.3775,0,1,1,furnished,148.6275,7000000
+house_66,8880.0,New York,3,2.0,2,yes,no,yes,1606.104,0,1,1,furnished,118.104,6930000
+house_67,13200.0,New York,2,1.0,1,yes,no,yes,1435.56,1,0,1,furnished,175.56,6930000
+house_68,,Montana,3,2.0,1,yes,no,no,16854.894,0,0,2,unfurnished,16254.894,6895000
+house_69,6000.0,Michigan,3,1.0,1,yes,no,no,979.8,0,1,1,furnished,79.8,6860000
+house_70,12090.0,Michigan,4,2.0,2,yes,no,no,1969.797,0,0,2,furnished,160.797,6790000
+house_71,4000.0,Michigan,3,2.0,2,yes,no,yes,1053.2,0,1,0,semi-furnished,53.2,6790000
+house_72,6000.0,Montana,4,2.0,4,yes,no,no,1279.8,0,1,0,unfurnished,79.8,6755000
+house_73,5020.0,Montana,3,1.0,4,yes,no,no,917.766,0,1,0,unfurnished,66.766,6720000
+house_74,6600.0,Montana,2,2.0,4,yes,no,yes,1347.78,0,0,0,furnished,87.78,6685000
+house_75,4040.0,Montana,3,1.0,2,yes,no,yes,855.732,1,0,1,furnished,53.732,6650000
+house_76,4260.0,Montana,4,2.0,2,yes,no,no,1082.658,1,0,0,semi-furnished,56.658,6650000
+house_77,6420.0,Montana,3,,3,yes,no,no,685.386,0,1,0,furnished,85.386,6650000
+house_78,6500.0,Montana,3,2.0,3,yes,no,no,1336.45,0,1,0,furnished,86.45,6650000
+house_79,5700.0,Montana,3,1.0,1,yes,yes,yes,960.81,0,1,2,furnished,75.81,6650000
+house_80,6000.0,Montana,3,2.0,3,yes,yes,no,1279.8,0,1,0,furnished,79.8,6650000
+house_81,,Montana,3,1.0,2,yes,no,no,600.0,1,0,1,semi-furnished,0.0,6629000
+house_82,4000.0,Montana,3,2.0,2,yes,no,yes,1053.2,0,1,1,semi-furnished,53.2,6615000
+house_83,10500.0,Michigan,3,2.0,1,yes,no,yes,1789.65,0,1,1,furnished,139.65,6615000
+house_84,6000.0,Michigan,3,2.0,4,yes,no,no,1279.8,0,1,0,semi-furnished,79.8,6580000
+house_85,3760.0,New York,3,1.0,2,yes,no,no,838.008,1,0,2,semi-furnished,50.008,6510000
+house_86,8250.0,Texas,3,2.0,3,yes,no,no,1534.725,0,1,0,furnished,109.725,6510000
+house_87,6670.0,Texas,3,1.0,3,yes,no,yes,1022.211,0,0,0,unfurnished,88.711,6510000
+house_88,3960.0,Texas,3,1.0,1,yes,no,yes,850.668,0,0,2,semi-furnished,52.668,6475000
+house_89,7410.0,New York,3,1.0,1,yes,yes,yes,1069.053,1,1,2,unfurnished,98.553,6475000
+house_90,8580.0,New York,5,3.0,2,yes,no,no,2001.114,0,0,2,furnished,114.114,6440000
+house_91,5000.0,Michigan,3,1.0,2,yes,no,no,916.5,0,1,0,semi-furnished,66.5,6440000
+house_92,6750.0,Montana,2,1.0,1,yes,yes,yes,1027.275,0,0,2,furnished,89.775,6419000
+house_93,4800.0,Montana,3,2.0,4,yes,yes,no,1143.84,0,1,0,furnished,63.84,6405000
+house_94,7200.0,Texas,3,2.0,1,yes,no,yes,1415.76,0,1,3,semi-furnished,95.76,6300000
+house_95,6000.0,New York,4,2.0,4,yes,no,no,1279.8,0,0,1,semi-furnished,79.8,6300000
+house_96,4100.0,Montana,3,2.0,3,yes,no,no,1064.53,0,1,2,semi-furnished,54.53,6300000
+house_97,,Michigan,3,1.0,1,yes,no,yes,200600.15,0,0,1,furnished,200000.15,6300000
+house_98,6400.0,Montana,3,1.0,1,yes,yes,yes,1005.12,0,1,1,semi-furnished,85.12,6300000
+house_99,6600.0,Montana,3,2.0,3,yes,no,no,1347.78,0,1,0,unfurnished,87.78,6293000
+house_100,6000.0,Montana,4,1.0,3,yes,yes,yes,979.8,0,0,0,unfurnished,79.8,6265000
